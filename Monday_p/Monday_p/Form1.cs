@@ -137,7 +137,7 @@ namespace Monday_p
             }
             else
             {
-                cmd.ExecuteReader();
+                n = cmd.ExecuteNonQuery();
             }
             if (n>0)
             {
