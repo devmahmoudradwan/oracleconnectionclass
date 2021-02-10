@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Monday_p\Monday_p\bin\Debug\Monday_p.exe.config
+C:\Users\USER\source\repos\Monday_p\Monday_p\bin\Debug\Monday_p.exe
+C:\Users\USER\source\repos\Monday_p\Monday_p\bin\Debug\Monday_p.pdb
+C:\Users\USER\source\repos\Monday_p\Monday_p\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.Form1.resources
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.Properties.Resources.resources
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.csproj.CopyComplete
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.exe
+C:\Users\USER\source\repos\Monday_p\Monday_p\obj\Debug\Monday_p.pdb
+C:\Users\USER\source\repos\Monday_p\Monday_p\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\USER\source\repos\Monday_p\Monday_p\bin\Debug\Oracle.DataAccess.dll
